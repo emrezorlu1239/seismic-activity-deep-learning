@@ -117,4 +117,4 @@ Loss curves demonstrate stable learning rates without severe overfitting.
 Detailed metrics can be inspected directly inside the Seismic_DL_Model.ipynb notebook.
 
 ## 📜 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See LICENSE for more information. 
